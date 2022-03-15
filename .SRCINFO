@@ -1,0 +1,13 @@
+pkgbase = drush-launcher
+	pkgdesc = A small wrapper around Drush for your global /home/ross/.local/share:/usr/lib/jvm/java-8-openjdk:/usr/lib/jvm/java-8-graalvm/bin:/usr/lib/jvm/java-11-openjdk:/usr/lib/jvm/java-11-graalvm/bin:/usr/lib/jvm/java-17-openjdk:/usr/lib/jvm/java-17-graalvm/bin:/home/ross/.nix-profile/bin:/nix/var/nix/profiles/default/bin:/opt/jython/bin/:/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/share/backuppc/bin:/opt/cuda/bin:/opt/cuda/nsight_compute:/opt/cuda/nsight_systems/bin:/home/ross/.dotnet/tools:/usr/lib/emscripten:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/opt/plan9/bin
+	pkgver = 0.10.1
+	pkgrel = 1
+	url = http://drupalconsole.com/
+	arch = any
+	license = GPL
+	makedepends = composer
+	depends = php
+	source = drush.phar::https://github.com/drush-ops/drush-launcher/releases/latest/download/drush.phar
+	sha512sums = 73456d685c028fd23c87b53e864906958c91c50b14059cb79bc88eccf098e495eba3ecfe27c962786a8639124f7a2359af8d6f4ecf180b457a3856d046802018
+
+pkgname = drush-launcher
