@@ -9,8 +9,7 @@
 # ToDo: Add files: Tooling
 # FixMe: Namcap warnings and errors
 
-# Maintainer: Stefan Auditor <stefan.auditor@erdfisch.de>
-# Please report issues at https://github.com/sanduhrs/arch-aur-drupalconsole
+# Maintainer: Ross Clark <archiv8@artisteducator.com>
 # Contributor: Ross Clark <archiv8@artisteducator.com>
 
 
